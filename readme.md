@@ -4,10 +4,14 @@ Ipython notebook
 http://ec2-54-187-135-186.us-west-2.compute.amazonaws.com/tree
 http://ec2-50-112-160-108.us-west-2.compute.amazonaws.com/tree
 
+
 Slide
 ===================================================
 https://www.slideshare.net/secret/j4d5X3mdoxF32H
+
 https://www.slideshare.net/secret/ibSaYMyT4oGEux
+
+https://www.slideshare.net/secret/yYE6tDXbx0ojnw
 
 nbviewer
 ===================================================
