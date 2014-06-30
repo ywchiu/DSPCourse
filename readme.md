@@ -9,10 +9,3 @@ http://nbviewer.ipython.org/github/ywchiu/DSPCourse/blob/master/user/Python_ETL_
 http://nbviewer.ipython.org/github/ywchiu/DSPCourse/blob/master/user/Python_ETL_Data_Storage_And_Analysis.ipynb?create=1/
 
 
-Slides
-===================================================
-http://www.slideshare.net/secret/gPronEXMVJvOGf
-
-http://www.slideshare.net/secret/DncXtvQ2PbuZUg
-
-http://www.slideshare.net/secret/tbcdpPewbWGSs8
