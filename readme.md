@@ -10,5 +10,12 @@ http://nbviewer.ipython.org/github/ywchiu/DSPCourse/blob/master/user/Python_ETL_
 
 
 Python
+
 http://nbviewer.ipython.org/github/c3h3/NCCU-PyData-Courses-2013Spring/blob/master/Lecture1/Introduction/Python_Introduction.ipynb
 
+
+Slideshare 
+
+https://www.slideshare.net/secret/AbGaVLW6uAqor4
+
+password: pythonetl
