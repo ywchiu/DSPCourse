@@ -16,6 +16,6 @@ http://nbviewer.ipython.org/github/c3h3/NCCU-PyData-Courses-2013Spring/blob/mast
 
 Slideshare 
 
-https://www.slideshare.net/secret/AbGaVLW6uAqor4
+http://www.slideshare.net/secret/oWh4UZpr0XDSDz
 
-password: pythonetl
+password: iiicourse
